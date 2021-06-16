@@ -2045,9 +2045,9 @@ input::-moz-focus-inner {
 }
 
 .hero-content h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 400;
-  line-height: 1.257;
+  line-height: 1.57;
   padding-right: 3.2rem;
   margin-top: 0;
   color: #ffffff;
