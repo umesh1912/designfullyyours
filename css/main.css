@@ -138,7 +138,7 @@ a:active {
  * 
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 700;
   font-style: normal;
   color: #000000;
@@ -216,7 +216,7 @@ p img {
 }
 
 p.lead {
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 300;
   font-size: 2.4rem;
   line-height: 1.833;
@@ -309,7 +309,7 @@ blockquote p {
 
 blockquote cite {
   display: block;
-  font-family: 'Playfair Display', serif;
+   
   font-size: 1.5rem;
   font-style: normal;
   line-height: 1.333;
@@ -495,7 +495,7 @@ table {
   border-width: 0;
   width: 100%;
   max-width: 100%;
-  font-family: 'Playfair Display', serif;
+   
   border-collapse: collapse;
 }
 
@@ -508,7 +508,7 @@ td {
 
 th {
   color: #000000;
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 700;
 }
 
@@ -786,7 +786,7 @@ select {
   border: 0;
   outline: none;
   color: #000000;
-  font-family: 'Playfair Display', serif;
+   
   font-size: 1.6rem;
   line-height: 3.2rem;
   max-width: 100%;
@@ -860,7 +860,7 @@ select:focus {
 
 label,
 legend {
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 700;
   font-size: 1.4rem;
   margin-bottom: .8rem;
@@ -877,7 +877,7 @@ input[type="radio"] {
 label > .label-text {
   display: inline-block;
   margin-left: 1rem;
-  font-family: 'Playfair Display', serif;
+   
   line-height: inherit;
 }
 
@@ -1078,7 +1078,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .drop-cap:first-letter {
   float: left;
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 700;
   font-size: 5.334em;
   line-height: 1;
@@ -1208,7 +1208,7 @@ input::-moz-focus-inner {
 .stats-tabs li a {
   display: inline-block;
   font-size: 2.5rem;
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 700;
   border: none;
   color: #000000;
@@ -1221,7 +1221,7 @@ input::-moz-focus-inner {
 .stats-tabs li a em {
   display: block;
   margin: .8rem 0 0 0;
-  font-family: 'Playfair Display', serif;
+   
   font-size: 1.5rem;
   font-weight: normal;
   font-style: normal;
@@ -1249,7 +1249,7 @@ input::-moz-focus-inner {
   position: absolute;
   left: 0;
   top: -4rem;
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 700;
   color: #000000;
   text-transform: uppercase;
@@ -1269,7 +1269,7 @@ input::-moz-focus-inner {
   right: 0;
   top: -3.6rem;
   display: block;
-  font-family: 'Playfair Display', serif;
+   
   color: #ffffff;
   font-size: 1.1rem;
   line-height: 1;
@@ -1378,7 +1378,7 @@ input::-moz-focus-inner {
   position: relative;
   margin-bottom: 3.2rem;
   border-radius: 3px;
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 600;
   font-size: 1.5rem;
   line-height: 1.6;
@@ -1490,7 +1490,7 @@ input::-moz-focus-inner {
 
 .section-intro {
   position: relative;
-  margin-bottom: 12rem;
+  margin-bottom: 5rem;
 }
 
 .section-intro .display-1 {
@@ -1747,7 +1747,7 @@ input::-moz-focus-inner {
   height: 4.2rem;
   width: 4.2rem;
   line-height: 4.2rem;
-  font-family: 'Playfair Display', serif;
+   
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .2rem;
@@ -2033,7 +2033,7 @@ input::-moz-focus-inner {
 }
 
 .hero-content {
-  height: 100%;
+  height: 85%;
   max-width: 850px;
   -ms-flex-align: start;
   -webkit-box-align: start;
@@ -2045,9 +2045,9 @@ input::-moz-focus-inner {
 }
 
 .hero-content h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 400;
-  line-height: 1.57;
+  line-height: 1.25;
   padding-right: 3.2rem;
   margin-top: 0;
   color: #ffffff;
@@ -2525,7 +2525,7 @@ html.no-csstransitions .hero-content {
 }
 
 .position__timeframe {
-  font-family: 'Playfair Display', serif;
+   
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 2rem;
@@ -2611,7 +2611,7 @@ html.no-csstransitions .hero-content {
 .s-services {
   padding-top: 24rem;
   padding-bottom: 20rem;
-  background-color: #1d1b37;
+  /* background-color: #1d1b37; */
   position: relative;
 }
 
@@ -2882,7 +2882,7 @@ html.no-csstransitions .hero-content {
 .folio-item__thumb a::after {
   z-index: 1;
   content: "+";
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 300;
   font-size: 3rem;
   color: #ffffff;
@@ -2934,7 +2934,7 @@ html.no-csstransitions .hero-content {
 
 .folio-item__cat {
   color: rgba(255, 255, 255, 0.5);
-  font-family: 'Playfair Display', serif;
+   
   font-size: 1.4rem;
   margin-bottom: 0;
 }
@@ -2942,7 +2942,7 @@ html.no-csstransitions .hero-content {
 .folio-item__project-link {
   z-index: 2;
   display: block;
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 400;
   font-size: 1.2rem;
   line-height: 2rem;
@@ -3080,7 +3080,7 @@ html.no-csstransitions .hero-content {
 }
 
 .testimonial-slider p {
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 400;
   font-size: 1.7rem;
   line-height: 1.882;
@@ -3162,7 +3162,7 @@ html.no-csstransitions .hero-content {
 
 .testimonial-slider__cite strong,
 .testimonial-slider__cite span {
-  font-family: 'Playfair Display', serif;
+   
   font-style: normal;
 }
 
@@ -3272,7 +3272,7 @@ html.no-csstransitions .hero-content {
 }
 
 .s-footer__bottom {
-  font-family: 'Playfair Display', serif;
+   
   color: rgba(255, 255, 255, 0.5);
   margin-top: 8rem;
 }
@@ -3293,7 +3293,7 @@ html.no-csstransitions .hero-content {
  * ## contact block
  * ------------------------------------------------------------------- */
 .footer-contact-block {
-  font-family: 'Playfair Display', serif;
+   
   font-weight: 400;
   font-size: 3rem;
   line-height: 1.2;
