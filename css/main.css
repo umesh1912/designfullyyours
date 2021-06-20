@@ -2479,6 +2479,7 @@ html.no-csstransitions .hero-content {
   position: absolute;
   top: 8rem;
   left: calc(50% + 80px);
+  border-radius:100px;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2716,10 +2717,13 @@ html.no-csstransitions .hero-content {
 }
 
 .services-list__item-body {
-  padding-top: 1.2rem;
+  padding-top: 0.75rem;
   padding-left: 4rem;
+  padding:4rem;
   padding-right: 4rem;
   display: none;
+  border-top:1px dashed rgba(255,255,255,0.5);
+  background:rgba(255,255,255,0.1)
 }
 
 .is-active .services-list__item-header::after {
