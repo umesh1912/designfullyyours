@@ -1869,6 +1869,7 @@ input::-moz-focus-inner {
 
 }
 
+
 @media screen and (max-width:1000px) {
   .header-content .btn {
     height: 4.8rem !important;
@@ -2469,7 +2470,9 @@ html.no-csstransitions .hero-content {
   right: 0;
   left: calc(50% + 12vw);
 }
-
+#about{
+  padding-top:40px;
+}
 .s-about__section--profile .row {
   position: relative;
 }
@@ -3487,5 +3490,22 @@ html.no-csstransitions .hero-content {
     right: 2.4rem;
     bottom: 4rem;
   }
+
+}
+
+@media screen and (max-width:1600px){
+  ul.header-nav {
+  
+  margin-left: 100px !important;
+}
+.hero-content h1 {
+    font-size: 3.3rem;
+  }
+}
+@media screen and (max-width:767px){
+  ul.header-nav {
+  
+  margin-left: 0px !important;
+}
 
 }
