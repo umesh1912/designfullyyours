@@ -3518,3 +3518,7 @@ html.no-csstransitions .hero-content {
   content:"Download CV";
  
 }
+
+.projects-images img{
+  border-radius:10px;
+}
