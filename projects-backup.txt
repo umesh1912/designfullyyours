@@ -479,6 +479,510 @@
                   </div>
                </div>
                
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/28.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/28.jpg" 
+                              srcset="images/portfolio/28.jpg 1x, images/portfolio/28@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Reflect </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/30.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/30.jpg" 
+                              srcset="images/portfolio/30.jpg 1x, images/portfolio/30@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Sutta Break  </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/19.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/19.jpg" 
+                              srcset="images/portfolio/19.jpg 1x, images/portfolio/19@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Going nuts</div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/42.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/42.jpg" 
+                              srcset="images/portfolio/42.jpg 1x, images/portfolio/42@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Wordplay    </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/41.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/41.jpg" 
+                              srcset="images/portfolio/41.jpg 1x, images/portfolio/41@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Wordplay    </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/40.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/40.jpg" 
+                              srcset="images/portfolio/40.jpg 1x, images/portfolio/40@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Wordplay    </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/20.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/20.jpg" 
+                              srcset="images/portfolio/20.jpg 1x, images/portfolio/20@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Hand sketch </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/21.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/21.jpg" 
+                              srcset="images/portfolio/21.jpg 1x, images/portfolio/21@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Hand sketch</div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/22.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/22.jpg" 
+                              srcset="images/portfolio/22.jpg 1x, images/portfolio/22@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Mixed media</div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/23.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/23.jpg" 
+                              srcset="images/portfolio/23.jpg 1x, images/portfolio/23@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Photo illustration  </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/24.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/24.jpg" 
+                              srcset="images/portfolio/24.jpg 1x, images/portfolio/24@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Photo illustration  </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/25.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/25.jpg" 
+                              srcset="images/portfolio/25.jpg 1x, images/portfolio/25@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Photo illustration  </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/29.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/29.jpg" 
+                              srcset="images/portfolio/29.jpg 1x, images/portfolio/29@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Showering love </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/16.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/16.jpg" 
+                              srcset="images/portfolio/16.jpg 1x, images/portfolio/16@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Corny Affair</div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/18.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/18.jpg" 
+                              srcset="images/portfolio/18.jpg 1x, images/portfolio/18@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Game of Thrones</div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/34.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/34.jpg" 
+                              srcset="images/portfolio/34.jpg 1x, images/portfolio/3@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Vacation </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/35.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/35.jpg" 
+                              srcset="images/portfolio/35.jpg 1x, images/portfolio/35@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Waah Taj </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/39.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/39.jpg" 
+                              srcset="images/portfolio/39.jpg 1x, images/portfolio/39@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat"> Window view    </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/27.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/27.jpg" 
+                              srcset="images/portfolio/27.jpg 1x, images/portfolio/27@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat"> Plane view</div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/17.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/17.jpg" 
+                              srcset="images/portfolio/17.jpg 1x, images/portfolio/17@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Digital sketch</div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/33.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/33.jpg" 
+                              srcset="images/portfolio/33.jpg 1x, images/portfolio/33@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Urban view </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/36.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/36.jpg" 
+                              srcset="images/portfolio/36.jpg 1x, images/portfolio/36@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Window view </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/37.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/37.jpg" 
+                              srcset="images/portfolio/37.jpg 1x, images/portfolio/37@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat"> Window view    </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
+               <div class="column large-4 portfolio-item filter-personal">
+                  <div data-aos="fade-up">
+                     <div class="folio-item">
+                        <div class="folio-item__thumb">
+                           <a class="folio-item__thumb-link" href="images/portfolio/gallery/38.jpg"  data-size="1050x700">
+                           <img src="images/portfolio/38.jpg" 
+                              srcset="images/portfolio/38.jpg 1x, images/portfolio/38@2x.jpg 2x" alt="">
+                           </a>
+                        </div>
+                        <div class="folio-item__info">
+                           <div class="folio-item__cat">Wordplay    </div>
+                           <!-- <h4 class="folio-item__title">Kabbadi Branding</h4> -->
+                        </div>
+                        <!-- <a href="worldcup.html" title="Explore" class="folio-item__project-link">Explore</a>
+                           <div class="folio-item__caption">
+                               <p>The PKL Logo has some components which define the Playoffs as well as the game of Kabaddi.
+                           </p>
+                           </div> -->
+                     </div>
+                  </div>
+               </div>
                <!-- New End -->
             </div>
          </div>
