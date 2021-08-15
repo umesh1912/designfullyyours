@@ -622,7 +622,7 @@ textarea {
 	-ms-flex: 0 0 50%;
 	-webkit-box-flex: 0;
 	flex: 0 0 50%;
-	max-width: 50%;
+	max-width: 48%;
 }
 
 .large-7 {
