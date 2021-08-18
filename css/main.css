@@ -1708,7 +1708,8 @@ input::-moz-focus-inner {
 
 .header-logo img {
   width: 125px;
-  height: auto;
+  /*height: auto;*/
+  height: 10rem !important;
   vertical-align: bottom;
 }
 
@@ -2647,6 +2648,10 @@ html.no-csstransitions .hero-content {
   padding-bottom: 12rem;
 }
 
+.service-leftcol-body{
+  text-align: justify;
+}
+
 .s-services__leftcol p.lead {
   max-width: 90%;
 }
@@ -3326,6 +3331,11 @@ html.no-csstransitions .hero-content {
   line-height: 1.2;
 }
 
+.display-contact-header{
+  font-size: 4.3rem;
+  line-height: 1.333;
+  color: #ffffff;
+}
 .footer-contact-block a {
   color: #ffffff;
 }
