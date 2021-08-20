@@ -1707,8 +1707,9 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 125px;
+  /*width: 125px;*/
   /*height: auto;*/
+  width: 105px;
   height: 10rem !important;
   vertical-align: bottom;
 }
